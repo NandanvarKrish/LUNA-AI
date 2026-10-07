@@ -1,0 +1,8 @@
+{
+  "name": "LUNA-AI",
+  "description": "Intelligent Lunar AI Companion and Multi-Modal Assistant featuring real-time conversational intelligence, voice synthesis, smart workspaces, and generative tools.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
